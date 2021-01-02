@@ -1,2 +1,2 @@
-# advent-calendar
-# This is an advent calendar in digital.
+# Advent calendar
+ This is an advent calendar in digital.
