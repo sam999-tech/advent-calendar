@@ -1,0 +1,12 @@
+html {
+  background-color: Black;
+  color: white;
+}
+a {
+  color: white;
+}
+.img {
+  max-width: 50%;
+  border: 5px solid white;
+  border-radius: 5px;
+}
