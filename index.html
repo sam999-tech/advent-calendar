@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+		<title>ADVENT CALENDAR</title>
+	</head>
+	<body>
+		<h1>Advent calendar</h1>
+		<script>
+			var now = new Date();
+			var month = now.getDate();
+			var days = 25 - now.getDate();
+			document.write("There are " + days + " days until Christmas");
+		</script><br>
+		<img class="img" src="advent.jpg" />
+		<footer><hr>Running on 192.168.1.141:5000 | Hosted with Apache2</footer>
+	</body>
+</html>
